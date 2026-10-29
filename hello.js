@@ -1,4 +1,4 @@
 const dayjs = require('dayjs');
 
-console.log('Hello from Node');
+console.log('Второй коммит');
 console.log(dayjs().format('DD.MM.YYYY'));
