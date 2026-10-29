@@ -1,4 +1,4 @@
 const dayjs = require('dayjs');
 
-console.log('Второй коммит');
+console.log('Ветка main');
 console.log(dayjs().format('DD.MM.YYYY'));
